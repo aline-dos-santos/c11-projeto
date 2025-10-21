@@ -3,10 +3,6 @@
 ## Descrição do Projeto
 Este projeto consiste na análise de dados do dataset **Coffee Shop Sales**, que contém registros de transações de uma cafeteria chamada **Maven Roasters**, com três unidades localizadas em Nova York. O dataset inclui informações detalhadas de cada venda, como data, horário, local, produto, categoria, quantidade e preço unitário.  
 
-O objetivo do projeto é explorar os dados para obter insights sobre **comportamento do consumidor, produtos mais vendidos, horários de pico, dias da semana mais movimentados e tendências de vendas ao longo do tempo**, utilizando **Python** e bibliotecas como **Pandas, NumPy e Matplotlib**.
-
-Além disso, buscamos apresentar **visualizações gráficas** que auxiliem na interpretação dos dados e na tomada de decisões estratégicas.
-
 ---
 
 ## Fonte do Dataset
